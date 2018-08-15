@@ -1,8 +1,8 @@
 {
-  "name": "bitbox-scaffold-vue",
-  "version": "1.5.1",
+  "name": "wormhole-scaffold-vue",
+  "version": "0.2.0",
   "license": "MIT",
-  "description": "Basic vuejs app w/ BITBOX bindings",
+  "description": "Basic vuejs app w/ Wormhole SDK bindings",
   "author": "Gabriel Cardona @ Bitcoin.com",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "bitbox-cli": "1.5.1",
+    "wormholecash": "0.2.0",
     "vue": "^2.5.2"
   },
   "devDependencies": {

@@ -1,11 +1,11 @@
-## BITBOX Scaffold Vue
+## Wormhole SDK Scaffold Vue
 
 ## Setup
 
-1. [Install `bitbox-cli`](https://www.npmjs.com/package/bitbox-cli) globally
-    * `npm install bitbox-cli --global`
-2. Scaffold an Angular app w/ BITBOX web bindings
-    * `bitbox new myApp --scaffold vue`
+1. [Install `wormholecash`](https://www.npmjs.com/package/wormholecash) globally
+    * `npm install wormholecash --global`
+2. Scaffold an Angular app w/ Wormhole SDK web bindings
+    * `wormhole new myApp --scaffold vue`
 3. `cd` in to the newly created app
     * `cd myApp`
 4. Install dependencies
