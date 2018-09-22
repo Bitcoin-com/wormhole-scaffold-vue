@@ -1,6 +1,6 @@
 {
   "name": "wormhole-scaffold-vue",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "license": "MIT",
   "description": "Basic vuejs app w/ Wormhole SDK bindings",
   "author": "Gabriel Cardona @ Bitcoin.com",
@@ -12,7 +12,7 @@
     "coverage:report": "nyc --reporter=html mocha --require babel-core/register --timeout 5000"
   },
   "dependencies": {
-    "wormholecash": "0.6.0",
+    "wormholecash": "0.7.1",
     "vue": "^2.5.2"
   },
   "devDependencies": {
